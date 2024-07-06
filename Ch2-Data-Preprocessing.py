@@ -49,7 +49,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-nasdaqdatalink.ApiConfig.api_key = "z6rdkht7pf4xrG6TDoGs"
+nasdaqdatalink.ApiConfig.api_key = YOUR KEY HERE 
 
 #Symbols as of 11/28/23 : 
 # SPAXX**
